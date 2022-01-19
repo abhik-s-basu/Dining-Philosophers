@@ -3,9 +3,9 @@ Implemented a solution of the famous Dining Philosophers problem and one of its 
 
 ## Problem Statement
 
-Q1) The traditional dining philosopher problem: each philosopher needs the ``` 2 forks  to their left and right ``` to eat their meal.
-Q2) This version was modified: the table had 4 sauce bowls in the centre accesible to all the philosophers and 5 forks in the table as is usually done in this problem. The philosopher would need ``` 1 fork ``` and ``` 1 sauce bowl ``` to eat their meal. Note that in this part there is no deadlock. 
-Q3) This version was modified: the table had 4 bowls in the centre accesible to all the philosophers and 5 forks in the table as is usually done in this problem. The philosopher would need ``` 2 forks to their left and right ``` and ``` 1 sauce bowl ``` to eat their meal 
+Q1) The traditional dining philosopher problem: each philosopher needs the ``` 2 forks  to their left and right ``` to eat their meal. <br>
+Q2) This version was modified: the table had 4 sauce bowls in the centre accesible to all the philosophers and 5 forks in the table as is usually done in this problem. The philosopher would need ``` 1 fork ``` and ``` 1 sauce bowl ``` to eat their meal. Note that in this part there is no deadlock. <br>
+Q3) This version was modified: the table had 4 bowls in the centre accesible to all the philosophers and 5 forks in the table as is usually done in this problem. The philosopher would need ``` 2 forks to their left and right ``` and ``` 1 sauce bowl ``` to eat their meal <br>
 
 ## Steps to run the code
 
